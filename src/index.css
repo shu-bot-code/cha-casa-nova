@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+@config "../tailwind.config.js";
+
+* {
+    cursor: none !important;
+}
+
+a,
+button,
+input,
+select,
+textarea {
+    cursor: none !important;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    overflow-x: hidden;
+    background-color: #FAF9F6;
+}
+
+::selection {
+    background-color: #E28E8E;
+    color: white;
+}
