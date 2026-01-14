@@ -182,10 +182,34 @@ export const giftList: Gift[] = [
     pixQrCodeImageUrl: "/qr/placeholder.png",
     pixCopiaECola: "Em breve!",
   },
+  {
+    id: "16",
+    nome: "Pote Hermético",
+    categoria: "cozinha",
+    descricao: "Pote hermético para armazenar alimentos e manter a cozinha organizada.",
+    valorSugerido: "R$ 45,90",
+    status: "disponivel",
+    imageUrl:
+      "https://i.ibb.co/6c1TdT06/pote.png",
+    pixQrCodeImageUrl: "/qr/placeholder.png",
+    pixCopiaECola: "Em breve!",
+  },
+  {
+    id: "17",
+    nome: "Pote Hermético",
+    categoria: "cozinha",
+    descricao: "Pote hermético para armazenar alimentos e manter a cozinha organizada.",
+    valorSugerido: "R$ 69,90",
+    status: "disponivel",
+    imageUrl:
+      "https://i.ibb.co/4RtvP1sT/pote2.png",
+    pixQrCodeImageUrl: "/qr/placeholder.png",
+    pixCopiaECola: "Em breve!",
+  },
 
   // Mesa / Preparo
   {
-    id: "16",
+    id: "18",
     nome: "Kit Abridor De Garrafa",
     categoria: "mesa_preparo",
     descricao: "Para abrir bebidas com facilidade e brindar com os amigos.",
@@ -197,7 +221,7 @@ export const giftList: Gift[] = [
     pixCopiaECola: "Em breve!",
   },
   {
-    id: "17",
+    id: "19",
     nome: "Jarra De Vidro",
     categoria: "mesa_preparo",
     descricao: "Para servir água e sucos com elegância na mesa.",
@@ -209,7 +233,7 @@ export const giftList: Gift[] = [
     pixCopiaECola: "Em breve!",
   },
   {
-    id: "18",
+    id: "20",
     nome: "Chaleira Bule",
     categoria: "mesa_preparo",
     descricao: "Para aquecer água e preparar chás e cafés no capricho.",
@@ -221,7 +245,7 @@ export const giftList: Gift[] = [
     pixCopiaECola: "Em breve!",
   },
   {
-    id: "19",
+    id: "21",
     nome: "Cafeteira",
     categoria: "mesa_preparo",
     descricao: "Para garantir café fresquinho e cheiroso todos os dias.",
@@ -233,7 +257,7 @@ export const giftList: Gift[] = [
     pixCopiaECola: "Em breve!",
   },
   {
-    id: "20",
+    id: "22",
     nome: "Sanduicheira",
     categoria: "mesa_preparo",
     descricao: "Para fazer lanches rápidos e tostados a qualquer hora.",
@@ -245,7 +269,7 @@ export const giftList: Gift[] = [
     pixCopiaECola: "Em breve!",
   },
   {
-    id: "21",
+    id: "23",
     nome: "Liquidificador",
     categoria: "mesa_preparo",
     descricao: "Para vitaminas, molhos e receitas do dia a dia.",
@@ -257,7 +281,7 @@ export const giftList: Gift[] = [
     pixCopiaECola: "Em breve!",
   },
   {
-    id: "22",
+    id: "24",
     nome: "Garrafa Térmica",
     categoria: "mesa_preparo",
     descricao: "Para manter café e chá quentinhos por mais tempo.",
@@ -269,7 +293,7 @@ export const giftList: Gift[] = [
     pixCopiaECola: "Em breve!",
   },
   {
-    id: "23",
+    id: "25",
     nome: "Chaira Estriada",
     categoria: "mesa_preparo",
     descricao: "Para manter as facas alinhadas e afiadas no uso diário.",
@@ -281,7 +305,7 @@ export const giftList: Gift[] = [
     pixCopiaECola: "Em breve!",
   },
   {
-    id: "24",
+    id: "26",
     nome: "Bandeja Retangular",
     categoria: "mesa_preparo",
     descricao: "Para servir petiscos, café da manhã e organizar a mesa.",
@@ -295,7 +319,7 @@ export const giftList: Gift[] = [
 
   // Quarto
   {
-    id: "25",
+    id: "27",
     nome: "Manta + Capas",
     categoria: "quarto",
     descricao: "Para deixar a cama aconchegante e com cara de lar.",
@@ -307,7 +331,7 @@ export const giftList: Gift[] = [
     pixCopiaECola: "Em breve!",
   },
   {
-    id: "26",
+    id: "28",
     nome: "Calendário Decorativo",
     categoria: "quarto",
     descricao: "Para organizar a rotina e decorar o cantinho.",
@@ -319,7 +343,7 @@ export const giftList: Gift[] = [
     pixCopiaECola: "Em breve!",
   },
   {
-    id: "27",
+    id: "29",
     nome: "Cabides",
     categoria: "quarto",
     descricao: "Para organizar as roupas no guarda-roupa desde o começo.",
@@ -331,7 +355,7 @@ export const giftList: Gift[] = [
     pixCopiaECola: "Em breve!",
   },
   {
-    id: "28",
+    id: "30",
     nome: "Ventilador Coluna",
     categoria: "quarto",
     descricao: "Para refrescar o quarto e deixar as noites mais confortáveis.",
@@ -343,7 +367,7 @@ export const giftList: Gift[] = [
     pixCopiaECola: "Em breve!",
   },
   {
-    id: "29",
+    id: "31",
     nome: "Travesseiro",
     categoria: "quarto",
     descricao: "Para mais conforto e uma noite de sono bem gostosa.",
@@ -355,7 +379,7 @@ export const giftList: Gift[] = [
     pixCopiaECola: "Em breve!",
   },
   {
-    id: "30",
+    id: "32",
     nome: "Travesseiro",
     categoria: "quarto",
     descricao: "Um travesseiro extra para visitas ou para revezar no dia a dia.",
@@ -367,7 +391,7 @@ export const giftList: Gift[] = [
     pixCopiaECola: "Em breve!",
   },
   {
-    id: "31",
+    id: "33",
     nome: "Porta Retrato",
     categoria: "quarto",
     descricao: "Para decorar com fotos e guardar memórias especiais.",
@@ -379,7 +403,7 @@ export const giftList: Gift[] = [
     pixCopiaECola: "Em breve!",
   },
   {
-    id: "32",
+    id: "34",
     nome: "Porta Retrato",
     categoria: "quarto",
     descricao: "Mais um porta-retrato para nossas fotos favoritas.",
@@ -391,7 +415,7 @@ export const giftList: Gift[] = [
     pixCopiaECola: "Em breve!",
   },
   {
-    id: "33",
+    id: "35",
     nome: "Prateleiras Suspensa",
     categoria: "quarto",
     descricao: "Para organizar livros, decoração e otimizar o espaço.",
@@ -405,7 +429,7 @@ export const giftList: Gift[] = [
 
   // Banheiro
   {
-    id: "34",
+    id: "36",
     nome: "Jogo de toalhas",
     categoria: "banheiro",
     descricao: "Toalhas macias para deixar o banheiro completo e aconchegante.",
@@ -417,7 +441,7 @@ export const giftList: Gift[] = [
     pixCopiaECola: "Em breve!",
   },
   {
-    id: "35",
+    id: "37",
     nome: "Kit Banheiro",
     categoria: "banheiro",
     descricao: "Para organizar a bancada do banheiro com praticidade.",
@@ -429,7 +453,7 @@ export const giftList: Gift[] = [
     pixCopiaECola: "Em breve!",
   },
   {
-    id: "36",
+    id: "38",
     nome: "Espelho Redondo",
     categoria: "banheiro",
     descricao: "Para completar o banheiro e facilitar a rotina.",
@@ -441,7 +465,7 @@ export const giftList: Gift[] = [
     pixCopiaECola: "Em breve!",
   },
   {
-    id: "37",
+    id: "39",
     nome: "Lixeira de Aço",
     categoria: "banheiro",
     descricao: "Para manter o banheiro organizado com um toque de elegância.",
@@ -455,7 +479,7 @@ export const giftList: Gift[] = [
 
   // Lavanderia / Limpeza
   {
-    id: "38",
+    id: "40",
     nome: "Kit Dispenser",
     categoria: "lavanderia_limpeza",
     descricao: "Para organizar e dosar produtos de limpeza com praticidade.",
@@ -467,7 +491,7 @@ export const giftList: Gift[] = [
     pixCopiaECola: "Em breve!",
   },
   {
-    id: "39",
+    id: "41",
     nome: "Ferro de Passar",
     categoria: "lavanderia_limpeza",
     descricao: "Para deixar as roupas alinhadas e sem amassados.",
@@ -479,7 +503,7 @@ export const giftList: Gift[] = [
     pixCopiaECola: "Em breve!",
   },
   {
-    id: "40",
+    id: "42",
     nome: "Cesto de Roupa",
     categoria: "lavanderia_limpeza",
     descricao: "Para juntar as roupas e manter a lavanderia organizada.",
@@ -491,7 +515,7 @@ export const giftList: Gift[] = [
     pixCopiaECola: "Em breve!",
   },
   {
-    id: "41",
+    id: "43",
     nome: "Cesto de Roupa",
     categoria: "lavanderia_limpeza",
     descricao: "Cesto extra para separar roupas por cor ou tipo.",
@@ -505,7 +529,7 @@ export const giftList: Gift[] = [
 
   // Ferramentas
   {
-    id: "42",
+    id: "44",
     nome: "Parafusadeira e Furadeira",
     categoria: "ferramentas",
     descricao: "Para montar móveis e fazer pequenos reparos com facilidade.",
@@ -517,7 +541,7 @@ export const giftList: Gift[] = [
     pixCopiaECola: "Em breve!",
   },
   {
-    id: "43",
+    id: "45",
     nome: "Utensílios Silicone",
     categoria: "ferramentas",
     descricao: "Utensílios de silicone para cozinhar sem riscar panelas.",
