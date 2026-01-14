@@ -226,7 +226,7 @@ export const giftList: Gift[] = [
     categoria: "mesa_preparo",
     descricao: "Para garantir café fresquinho e cheiroso todos os dias.",
     valorSugerido: "R$ 154,90",
-    status: "disponivel",
+    status: "presenteado",
     imageUrl:
       "https://i.ibb.co/KjLMNN7x/cafeteira.png",
     pixQrCodeImageUrl: "/qr/placeholder.png",
