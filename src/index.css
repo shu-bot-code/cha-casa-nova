@@ -2,18 +2,6 @@
 
 @config "../tailwind.config.js";
 
-* {
-    cursor: none !important;
-}
-
-a,
-button,
-input,
-select,
-textarea {
-    cursor: none !important;
-}
-
 html {
     scroll-behavior: smooth;
 }

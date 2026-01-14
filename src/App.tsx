@@ -5,7 +5,6 @@ import { FAQ } from "./components/FAQ";
 import { GiftCard } from "./components/GiftCard";
 import { Header } from "./components/Header";
 import { HowItWorks } from "./components/HowItWorks";
-import { MagicCursor } from "./components/MagicCursor";
 import { PixModal } from "./components/PixModal";
 
 // --- LÓGICA E DADOS ---
@@ -26,10 +25,8 @@ const App: React.FC = () => {
 
   // --- LÓGICA DE FILTRAGEM + ORDENAÇÃO A-Z ---
   const filteredGifts = useMemo(() => {
-    // 1. Criamos uma cópia da lista original
     let list = [...giftList];
 
-    // 2. Filtramos por Categoria (Case-insensitive e sem espaços)
     if (categoryFilter !== "todos") {
       list = list.filter(
         (g) =>
@@ -38,12 +35,10 @@ const App: React.FC = () => {
       );
     }
 
-    // 3. Filtramos por Status (Disponível ou Presenteado)
     if (statusFilter !== "todos") {
       list = list.filter((g) => g.status === statusFilter);
     }
 
-    // 4. Ordenamos Alfabeticamente (A-Z) - Inteligente com acentos
     return list.sort((a, b) => a.nome.trim().localeCompare(b.nome.trim()));
   }, [categoryFilter, statusFilter]);
 
@@ -67,14 +62,13 @@ const App: React.FC = () => {
 
   return (
     <div className="min-h-screen bg-background font-sans text-gray-900 scroll-smooth">
-      {/* Varinha Mágica com Rastro Rosa */}
-      <MagicCursor />
-      
+     
       {/* Menu Superior */}
       <Header />
 
       {/* --- HERO SECTION (APRESENTAÇÃO) --- */}
-      <section id="home" className="pt-32 pb-20 px-4">
+      {/* Ajustado: pb-10 para reduzir o espaço abaixo da imagem */}
+      <section id="home" className="pt-32 pb-10 px-4">
         <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center gap-12 text-left">
           
           {/* Texto de Boas-vindas */}
@@ -104,11 +98,10 @@ const App: React.FC = () => {
           {/* Ilustração do Casal */}
           <div className="flex-1 w-full max-w-sm md:max-w-md animate-in fade-in slide-in-from-right duration-1000">
             <div className="relative">
-              {/* Elemento Decorativo atrás da foto */}
               <div className="absolute -inset-4 bg-accent/10 rounded-[3rem] rotate-3 -z-10"></div>
               
               <img 
-                src="https://i.ibb.co/6RTPB4bV/casal.jpg" // <-- COLE SEU LINK DO IMGBB AQUI
+                src="https://i.ibb.co/jvvfS3F4/casal.png"
                 alt="Shuma e Yas"
                 className="rounded-[2.5rem] shadow-2xl w-full object-cover border-4 border-white transform hover:rotate-0 transition-transform duration-500 -rotate-2"
               />
@@ -118,11 +111,13 @@ const App: React.FC = () => {
       </section>
 
       {/* --- LISTA DE PRESENTES COM FILTROS --- */}
-      <section id="lista" className="py-20 max-w-7xl mx-auto px-4 border-t border-gray-50">
-        <div className="text-center mb-16 space-y-8">
+      {/* Ajustado: pt-4 para aproximar a seção do conteúdo acima */}
+      <section id="lista" className="pt-4 pb-20 max-w-7xl mx-auto px-4 border-t border-gray-50">
+        {/* Ajustado: mb-8 e space-y-4 para aproximar o título dos filtros */}
+        <div className="text-center mb-8 space-y-4">
           <h2 className="text-3xl font-bold italic">Nossa Lista</h2>
 
-          <div className="space-y-8">
+          <div className="space-y-6">
             {/* Filtros de Categoria */}
             <div className="flex flex-wrap justify-center gap-2">
               {categories.map((cat) => (
@@ -141,7 +136,7 @@ const App: React.FC = () => {
             </div>
 
             {/* Filtros de Status */}
-            <div className="flex justify-center gap-6 border-t border-gray-100 pt-8">
+            <div className="flex justify-center gap-6 border-t border-gray-100 pt-6">
               {statusOptions.map((opt) => (
                 <button
                   key={opt.id}
