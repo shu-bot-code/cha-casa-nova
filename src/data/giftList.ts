@@ -3,6 +3,18 @@ import type { Gift } from "../types/gift";
 export const giftList: Gift[] = [
   // Cozinha
   {
+    id: "1",
+    nome: "Kit para Churrasco",
+    categoria: "cozinha",
+    descricao: "Para manter a cozinha organizada e sempre limpinha.",
+    valorSugerido: "R$ 353,00",
+    status: "disponivel",
+    imageUrl:
+      "https://i.ibb.co/MkJ7cKcy/Kit-para-Churrasco.png",
+    pixQrCodeImageUrl: "https://i.ibb.co/GfZ3NtxL/qr-Kit-Para-Churrasco.png",
+    pixCopiaECola: "00020126910014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090229Kit de churrasco  cha de casa5204000053039865406353.005802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62520514KitDeChurrasco50300017br.gov.bcb.brcode01051.0.06304204D",
+  },
+  {
     id: "2",
     nome: "Lixeira Retangular",
     categoria: "cozinha",
@@ -10,7 +22,7 @@ export const giftList: Gift[] = [
     valorSugerido: "R$ 124,90",
     status: "disponivel",
     imageUrl:
-      "https://i.ibb.co/DqsMbzh/lixeira.png",
+      "https://i.ibb.co/9mnSYnh2/Lixeira-Retangular.png",
     pixQrCodeImageUrl: "https://i.ibb.co/zhM1rWrR/qr-Lixeira-Retangular.png",
     pixCopiaECola: "00020126930014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090231Lixeira retangular  cha de casa5204000053039865406124.905802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62550517LixeiraRetangular50300017br.gov.bcb.brcode01051.0.063042334",
   },
@@ -22,7 +34,7 @@ export const giftList: Gift[] = [
     valorSugerido: "R$ 349,90",
     status: "disponivel",
     imageUrl:
-      "https://i.ibb.co/bMmknhGN/multiprocessador.png",
+      "https://i.ibb.co/gFw7dx06/Multiprocessador.png",
     pixQrCodeImageUrl: "https://i.ibb.co/xKfymG3q/qr-Multiprocessador.png",
     pixCopiaECola: "00020126910014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090229Multiprocessador  cha de casa5204000053039865406349.905802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62540516Multiprocessador50300017br.gov.bcb.brcode01051.0.06304C7DD",
   },
@@ -34,7 +46,7 @@ export const giftList: Gift[] = [
     valorSugerido: "R$ 178,90",
     status: "disponivel",
     imageUrl:
-      "https://i.ibb.co/R4NBwzDT/bowler.png",
+      "https://i.ibb.co/ynk55SN9/Conjunto-de-Bowls.png",
     pixQrCodeImageUrl: "https://i.ibb.co/ynbmZgrf/qr-Conjuntode-Bowls.png",
     pixCopiaECola: "00020126920014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090230Conjunto de bowls  cha de casa5204000053039865406178.905802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62530515ConjuntoDeBowls50300017br.gov.bcb.brcode01051.0.0630422C8",
   },
@@ -46,7 +58,7 @@ export const giftList: Gift[] = [
     valorSugerido: "R$ 199,90",
     status: "disponivel",
     imageUrl:
-      "https://i.ibb.co/vxZXJrPk/escorredor.png",
+      "https://i.ibb.co/0RDx7W87/Escorredor-de-Lou-a.png",
     pixQrCodeImageUrl: "https://i.ibb.co/k2Gz8KQx/qr-Escorredorde-Lou-a.png",
     pixCopiaECola: "00020126940014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090232Escorredor de louca  cha de casa5204000053039865406199.905802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62550517EscorredorDeLouca50300017br.gov.bcb.brcode01051.0.06304F11E",
   },
@@ -58,7 +70,7 @@ export const giftList: Gift[] = [
     valorSugerido: "R$ 45,90",
     status: "disponivel",
     imageUrl:
-      "https://i.ibb.co/YF2gptMK/saleiro.png",
+      "https://i.ibb.co/Wv5VMPFt/Saleiro.png",
     pixQrCodeImageUrl: "https://i.ibb.co/sdwyN2MQ/qr-Saleiro.png",
     pixCopiaECola: "00020126820014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090220Saleiro  cha de casa520400005303986540545.905802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62450507Saleiro50300017br.gov.bcb.brcode01051.0.06304E3B9",
   },
@@ -70,7 +82,7 @@ export const giftList: Gift[] = [
     valorSugerido: "R$ 140,80",
     status: "disponivel",
     imageUrl:
-      "https://i.ibb.co/219ZGzwc/vasilapet.png",
+      "https://i.ibb.co/M5pfsmrZ/Fonte-para-Pets.png",
     pixQrCodeImageUrl: "https://i.ibb.co/HD4RwCcL/qr-Fonte-Para-Pets.png",
     pixCopiaECola: "00020126900014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090228Fonte para pets  cha de casa5204000053039865406140.805802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62510513FonteParaPets50300017br.gov.bcb.brcode01051.0.06304E183",
   },
@@ -82,7 +94,7 @@ export const giftList: Gift[] = [
     valorSugerido: "R$ 99,99",
     status: "disponivel",
     imageUrl:
-      "https://i.ibb.co/ZpQTsLfN/pano.png",
+      "https://i.ibb.co/G3bvcyN4/Panos-de-Prato.png",
     pixQrCodeImageUrl: "https://i.ibb.co/KpXPJKxB/qr-Panos-De-Prato.png",
     pixCopiaECola: "00020126920014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090230Kit Pano de Prato  cha de casa520400005303986540599.995802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62520514KitPanoDePrato50300017br.gov.bcb.brcode01051.0.063040891",
   },
@@ -94,7 +106,7 @@ export const giftList: Gift[] = [
     valorSugerido: "R$ 93,50",
     status: "disponivel",
     imageUrl:
-      "https://i.ibb.co/Txnt1rWn/ralador2.png",
+      "https://i.ibb.co/DHrDXMrb/Ralador-Utilit.png",
     pixQrCodeImageUrl: "https://i.ibb.co/rKrvHBhr/qr-Ralador-Utilit.png",
     pixCopiaECola: "00020126900014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090228Ralador utilita  cha de casa520400005303986540593.505802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62520514RaladorUtilita50300017br.gov.bcb.brcode01051.0.06304D9AC",
   },
@@ -106,7 +118,7 @@ export const giftList: Gift[] = [
     valorSugerido: "R$ 101,50",
     status: "disponivel",
     imageUrl:
-      "https://i.ibb.co/DDh7WH7d/ralador.png",
+      "https://i.ibb.co/pvTXQStF/Ralador.png",
     pixQrCodeImageUrl: "https://i.ibb.co/DHMzc2Rj/qr-Ralador.png",
     pixCopiaECola: "00020126820014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090220Ralador  cha de casa5204000053039865406101.505802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62450507Ralador50300017br.gov.bcb.brcode01051.0.063043E2D",
   },
@@ -118,7 +130,7 @@ export const giftList: Gift[] = [
     valorSugerido: "R$ 137,85",
     status: "disponivel",
     imageUrl:
-      "https://i.ibb.co/840g1Cnq/outrostalheres.png",
+      "https://i.ibb.co/gMc1YcDV/Jogo-de-Utens-lios.png",
     pixQrCodeImageUrl: "https://i.ibb.co/r2HMhWsG/qr-Jogode-Utens-lios.png",
     pixCopiaECola: "00020126930014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090231Jogo de utensilios  cha de casa5204000053039865406137.855802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62540516JogoDeUtensilios50300017br.gov.bcb.brcode01051.0.06304964D",
   },
@@ -130,7 +142,7 @@ export const giftList: Gift[] = [
     valorSugerido: "R$ 78,89",
     status: "disponivel",
     imageUrl:
-      "https://i.ibb.co/39xrCbfQ/organizadorpia.png",
+      "https://i.ibb.co/BDvTZf6/Organizador-de-Pia.png",
     pixQrCodeImageUrl: "https://i.ibb.co/Wp66MpCN/qr-Organizador-De-Pia.png",
     pixCopiaECola: "00020126930014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090231Organizador de pia  cha de casa520400005303986540578.895802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62540516OrganizadorDePia50300017br.gov.bcb.brcode01051.0.06304D2C3",
   },
@@ -142,7 +154,7 @@ export const giftList: Gift[] = [
     valorSugerido: "R$ 45,00",
     status: "disponivel",
     imageUrl:
-      "https://i.ibb.co/v4ZnrBJM/panodeprato.png",
+      "https://i.ibb.co/tMTb7rGP/Kit-com-3-Panos.png",
     pixQrCodeImageUrl: "https://i.ibb.co/WpDh3BJx/qr-Kit-Com3-Panos.png",
     pixCopiaECola: "00020126900014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090228Kit com 3 panos  cha de casa520400005303986540545.005802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62470509Kit3Panos50300017br.gov.bcb.brcode01051.0.06304D75F",
   },
@@ -154,7 +166,7 @@ export const giftList: Gift[] = [
     valorSugerido: "R$ 364,00",
     status: "disponivel",
     imageUrl:
-      "https://i.ibb.co/sJkxbfHJ/jogodefaca2.png",
+      "https://i.ibb.co/mVMHXP7c/Jogo-de-Facas.png",
     pixQrCodeImageUrl: "https://i.ibb.co/SDRjt63c/qr-Jogo-De-Facas.png",
     pixCopiaECola: "00020126880014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090226Jogo de facas  cha de casa5204000053039865406364.005802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62490511JogoDeFacas50300017br.gov.bcb.brcode01051.0.063042960",
   },
@@ -166,7 +178,7 @@ export const giftList: Gift[] = [
     valorSugerido: "R$ 29,00",
     status: "disponivel",
     imageUrl:
-      "https://i.ibb.co/9khb11Cn/escorredor2.png",
+      "https://i.ibb.co/DPvMLZWQ/Tapete-escorredor.png",
     pixQrCodeImageUrl: "https://i.ibb.co/HTzSR9Rj/qr-Tapete-Escorredor.png",
     pixCopiaECola: "00020126920014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090230Tapete escorredor  cha de casa520400005303986540529.005802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62540516TapeteEscorredor50300017br.gov.bcb.brcode01051.0.0630451C7",
   },
@@ -178,7 +190,7 @@ export const giftList: Gift[] = [
     valorSugerido: "R$ 45,90",
     status: "disponivel",
     imageUrl:
-      "https://i.ibb.co/6c1TdT06/pote.png",
+      "https://i.ibb.co/JjzGVRv8/Pote-Herm-tico.png",
     pixQrCodeImageUrl: "https://i.ibb.co/8LTSjTWg/qr-Pote-Herm-tico.png",
     pixCopiaECola: "00020126890014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090227Pote hermetico  cha de casa520400005303986540545.905802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62510513PoteHermetico50300017br.gov.bcb.brcode01051.0.06304E55B",
   },
@@ -190,7 +202,7 @@ export const giftList: Gift[] = [
     valorSugerido: "R$ 69,90",
     status: "disponivel",
     imageUrl:
-      "https://i.ibb.co/4RtvP1sT/pote2.png",
+      "https://i.ibb.co/JjzGVRv8/Pote-Herm-tico.png",
     pixQrCodeImageUrl: "https://i.ibb.co/pjmdygyL/qr-Pote-Herm-tico2.png",
     pixCopiaECola: "00020126910014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090229Pote hermetico 2  cha de casa520400005303986540569.905802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62520514PoteHermetico250300017br.gov.bcb.brcode01051.0.063043BFB",
   },
@@ -204,7 +216,7 @@ export const giftList: Gift[] = [
     valorSugerido: "R$ 85,90",
     status: "disponivel",
     imageUrl:
-      "https://i.ibb.co/fYfBnGsC/abridor.png",
+      "https://i.ibb.co/S7WTRd7z/Kit-Abridor-De-Garrafa.png",
     pixQrCodeImageUrl: "https://i.ibb.co/XxY9VZxm/qr-Kit-Abridor-De-Garrafa.png",
     pixCopiaECola: "00020126950014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090233Kit abridor de vinho  cha de casa520400005303986540585.905802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62550517KitAbridorDeVinho50300017br.gov.bcb.brcode01051.0.063041C3A",
   },
@@ -216,7 +228,7 @@ export const giftList: Gift[] = [
     valorSugerido: "R$ 65,90",
     status: "disponivel",
     imageUrl:
-      "https://i.ibb.co/d45c6Bp2/jarra.png",
+      "https://i.ibb.co/GvyR9Q4K/Jarra-De-Vidro.png",
     pixQrCodeImageUrl: "https://i.ibb.co/fz1ytd48/qr-Jarra-De-Vidro.png",
     pixCopiaECola: "00020126890014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090227Jarra de vidro  cha de casa520400005303986540565.905802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62500512JarraDeVidro50300017br.gov.bcb.brcode01051.0.063048457",
   },
@@ -228,7 +240,7 @@ export const giftList: Gift[] = [
     valorSugerido: "R$ 159,00",
     status: "disponivel",
     imageUrl:
-      "https://i.ibb.co/WWdnpDGS/chaleira.png",
+      "https://i.ibb.co/YsLLThR/Chaleira-Bule.png",
     pixQrCodeImageUrl: "https://i.ibb.co/XxG8wGxL/qr-Chaleira-Bule.png",
     pixCopiaECola: "00020126880014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090226Chaleira bule  cha de casa5204000053039865406159.005802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62500512ChaleiraBule50300017br.gov.bcb.brcode01051.0.063048332",
   },
@@ -240,7 +252,7 @@ export const giftList: Gift[] = [
     valorSugerido: "R$ 154,90",
     status: "presenteado",
     imageUrl:
-      "https://i.ibb.co/KjLMNN7x/cafeteira.png",
+      "https://i.ibb.co/NB6JGrN/Cafeteira.png",
     pixQrCodeImageUrl: "/qr/placeholder.png",
     pixCopiaECola: "Em breve!",
   },
@@ -252,7 +264,7 @@ export const giftList: Gift[] = [
     valorSugerido: "R$ 159,90",
     status: "disponivel",
     imageUrl:
-      "https://i.ibb.co/BV4Tv3SW/robolimpa.png",
+      "https://i.ibb.co/9HdvpZjR/Sanduicheira.png",
     pixQrCodeImageUrl: "https://i.ibb.co/sJbV5ky3/qr-Sanduicheira.png",
     pixCopiaECola: "00020126870014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090225Sanduicheira  cha de casa5204000053039865406159.905802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62500512Sanduicheira50300017br.gov.bcb.brcode01051.0.06304BBAA",
   },
@@ -264,7 +276,7 @@ export const giftList: Gift[] = [
     valorSugerido: "R$ 174,90",
     status: "disponivel",
     imageUrl:
-      "https://i.ibb.co/ccjckcrs/liquidificador.png",
+      "https://i.ibb.co/3mzgX4P3/Liquidificador.png",
     pixQrCodeImageUrl: "https://i.ibb.co/99vWcMwG/qr-Liquidificador.png",
     pixCopiaECola: "00020126890014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090227Liquidificador  cha de casa5204000053039865406174.905802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62520514Liquidificador50300017br.gov.bcb.brcode01051.0.06304ABB2",
   },
@@ -276,7 +288,7 @@ export const giftList: Gift[] = [
     valorSugerido: "R$ 59,90",
     status: "disponivel",
     imageUrl:
-      "https://i.ibb.co/nM3NvcXd/guardacafe.png",
+      "https://i.ibb.co/KjyK87sC/Garrafa-T-rmica.png",
     pixQrCodeImageUrl: "https://i.ibb.co/8gTQ23Kn/qr-Garrafa-T-rmica.png",
     pixCopiaECola: "00020126900014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090228Garrafa termica  cha de casa520400005303986540559.905802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62520514GarrafaTermica50300017br.gov.bcb.brcode01051.0.06304C951",
   },
@@ -288,7 +300,7 @@ export const giftList: Gift[] = [
     valorSugerido: "R$ 57,90",
     status: "disponivel",
     imageUrl:
-      "https://i.ibb.co/WWfTLBsF/amolador.png",
+      "https://i.ibb.co/MyrL44vT/Chaira-Estriada.png",
     pixQrCodeImageUrl: "https://i.ibb.co/8LyK8B3g/qr-Chaira-Estriada.png",
     pixCopiaECola: "00020126900014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090228Chaira estriada  cha de casa520400005303986540557.905802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62520514ChairaEstriada50300017br.gov.bcb.brcode01051.0.0630467C1",
   },
@@ -300,7 +312,7 @@ export const giftList: Gift[] = [
     valorSugerido: "R$ 46,90",
     status: "disponivel",
     imageUrl:
-      "https://i.ibb.co/VcL1bRzD/bandeja.png",
+      "https://i.ibb.co/jPpHQ4DD/Bandeja-Retangular.png",
     pixQrCodeImageUrl: "https://i.ibb.co/wFY3LW15/qr-Bandeja-Retangular.png",
     pixCopiaECola: "00020126930014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090231Bandeja retangular  cha de casa520400005303986540546.905802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62550517BandejaRetangular50300017br.gov.bcb.brcode01051.0.06304EE88",
   },
@@ -331,6 +343,30 @@ export const giftList: Gift[] = [
     pixCopiaECola: "00020126960014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090234Calendario decorativo  cha de casa520400005303986540529.005802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62580520CalendarioDecorativo50300017br.gov.bcb.brcode01051.0.06304C9DE",
   },
   {
+    id: "28",
+    nome: "Manta de casal",
+    categoria: "quarto",
+    descricao: "Para deixar a cama aconchegante e com cara de lar.",
+    valorSugerido: "R$ 57,00",
+    status: "disponivel",
+    imageUrl:
+      "https://i.ibb.co/27RP0wHh/Manta-Casal.png",
+    pixQrCodeImageUrl: "https://i.ibb.co/tr8rsjZ/qr-Manta-Casal.png",
+    pixCopiaECola: "00020126890014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090227Manta de casal  cha de casa520400005303986540557.005802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62500512MantaDeCasal50300017br.gov.bcb.brcode01051.0.063044DD4",
+  },
+  {
+    id: "28",
+    nome: "Manta de casal",
+    categoria: "quarto",
+    descricao: "Para deixar a cama aconchegante e com cara de lar.",
+    valorSugerido: "R$ 57,00",
+    status: "disponivel",
+    imageUrl:
+      "https://i.ibb.co/27RP0wHh/Manta-Casal.png",
+    pixQrCodeImageUrl: "https://i.ibb.co/qYmK0Qxq/qr-Manta-Casal2.png",
+    pixCopiaECola: "00020126890014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090227Manta de casal  cha de casa520400005303986540557.005802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62510513MantaDeCasal250300017br.gov.bcb.brcode01051.0.063047922",
+  },
+  {
     id: "29",
     nome: "Cabides",
     categoria: "quarto",
@@ -338,7 +374,7 @@ export const giftList: Gift[] = [
     valorSugerido: "R$ 78,99",
     status: "disponivel",
     imageUrl:
-      "https://i.ibb.co/TxJZGgsj/cabides.png",
+      "https://i.ibb.co/PZrq6BW1/Cabides.png",
     pixQrCodeImageUrl: "https://i.ibb.co/B5b0NgJ1/qr-Cabides.png",
     pixCopiaECola: "00020126820014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090220Cabides  cha de casa520400005303986540578.995802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62450507Cabides50300017br.gov.bcb.brcode01051.0.063044C42",
   },
@@ -350,7 +386,7 @@ export const giftList: Gift[] = [
     valorSugerido: "R$ 339,90",
     status: "disponivel",
     imageUrl:
-      "https://i.ibb.co/Fb6ZFvcG/ventiladorcoluna.png",
+      "https://i.ibb.co/fGQPwSzY/Ventilador-Coluna.png",
     pixQrCodeImageUrl: "https://i.ibb.co/HDV2NRbx/qr-Ventilador-Coluna.png",
     pixCopiaECola: "00020126920014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090230Ventilador coluna  cha de casa5204000053039865406339.005802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62540516VentiladorColuna50300017br.gov.bcb.brcode01051.0.06304B011",
   },
@@ -362,7 +398,7 @@ export const giftList: Gift[] = [
     valorSugerido: "R$ 149,90",
     status: "disponivel",
     imageUrl:
-      "https://i.ibb.co/Y4tLmZ9R/travesseiro.png",
+      "https://i.ibb.co/ynnBYgTB/Travesseiro.png",
     pixQrCodeImageUrl: "https://i.ibb.co/FqNY9Sq8/qr-Travesseiro.png",
     pixCopiaECola: "00020126860014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090224Travesseiro  cha de casa5204000053039865406149.905802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62490511Travesseiro50300017br.gov.bcb.brcode01051.0.063040B25",
   },
@@ -374,7 +410,7 @@ export const giftList: Gift[] = [
     valorSugerido: "R$ 149,90",
     status: "disponivel",
     imageUrl:
-      "https://i.ibb.co/Y4tLmZ9R/travesseiro.png",
+      "https://i.ibb.co/ynnBYgTB/Travesseiro.png",
     pixQrCodeImageUrl: "https://i.ibb.co/PspLj1Kj/qr-Travesseiro2.png",
     pixCopiaECola: "00020126860014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090224Travesseiro  cha de casa5204000053039865406149.905802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62500512Travesseiro250300017br.gov.bcb.brcode01051.0.063040B49",
   },
@@ -386,7 +422,7 @@ export const giftList: Gift[] = [
     valorSugerido: "R$ 43,90",
     status: "disponivel",
     imageUrl:
-      "https://i.ibb.co/JwXDL86n/portaretrato.png",
+      "https://i.ibb.co/W4dKwz5G/Porta-Retrato.png",
     pixQrCodeImageUrl: "https://i.ibb.co/qYdFyfWc/qr-Porta-Retrato.png",
     pixCopiaECola: "00020126880014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090226Porta retrato  cha de casa520400005303986540543.905802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62500512PortaRetrato50300017br.gov.bcb.brcode01051.0.063046FB2",
   },
@@ -398,7 +434,7 @@ export const giftList: Gift[] = [
     valorSugerido: "R$ 43,90",
     status: "disponivel",
     imageUrl:
-      "https://i.ibb.co/JwXDL86n/portaretrato.png",
+      "https://i.ibb.co/W4dKwz5G/Porta-Retrato.png",
     pixQrCodeImageUrl: "https://i.ibb.co/0V6Vnffx/qr-Porta-Retrato2.png",
     pixCopiaECola: "00020126880014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090226Porta retrato  cha de casa520400005303986540543.905802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62510513PortaRetrato250300017br.gov.bcb.brcode01051.0.063041B02",
   },
@@ -410,7 +446,7 @@ export const giftList: Gift[] = [
     valorSugerido: "R$ 21,99",
     status: "disponivel",
     imageUrl:
-      "https://i.ibb.co/bMRHJ1Cv/prateleira.png",
+      "https://i.ibb.co/7xfQPcv2/Prateleiras-Suspensa.png",
     pixQrCodeImageUrl: "https://i.ibb.co/N6M9S464/qr-Prateleiras-Suspensa.png",
     pixCopiaECola: "00020126940014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090232Prateleira suspensa  cha de casa520400005303986540521.995802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62570519PrateleirasSuspensa50300017br.gov.bcb.brcode01051.0.063040299",
   },
@@ -424,7 +460,7 @@ export const giftList: Gift[] = [
     valorSugerido: "R$ 249,90",
     status: "disponivel",
     imageUrl:
-      "https://i.ibb.co/N6t0Z3nF/toalha2.png",
+      "https://i.ibb.co/DfYx4rNP/Jogo-de-toalhas.png",
     pixQrCodeImageUrl: "https://i.ibb.co/wbz24dP/qr-Jogo-De-Toalhas.png",
     pixCopiaECola: "00020126900014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090228Jogo de toalhas  cha de casa5204000053039865406249.905802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62510513JogoDeToalhas50300017br.gov.bcb.brcode01051.0.063044A34",
   },
@@ -436,7 +472,7 @@ export const giftList: Gift[] = [
     valorSugerido: "R$ 139,90",
     status: "disponivel",
     imageUrl:
-      "https://i.ibb.co/0H7Q94C/kitbanheiro.png",
+      "https://i.ibb.co/TqhqqD4c/Kit-Banheiro.png",
     pixQrCodeImageUrl: "https://i.ibb.co/2Yq0c3d7/qr-Kit-Banheiro.png",
     pixCopiaECola: "00020126870014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090225Kit banheiro  cha de casa5204000053039865406139.905802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62490511KitBanheiro50300017br.gov.bcb.brcode01051.0.06304F4BE",
   },
@@ -448,9 +484,9 @@ export const giftList: Gift[] = [
     valorSugerido: "R$ 69,90",
     status: "disponivel",
     imageUrl:
-      "https://i.ibb.co/8gnJmVQR/espelhoredondo.png",
-    pixQrCodeImageUrl: "/qr/placeholder.png",
-    pixCopiaECola: "Em breve!",
+      "https://i.ibb.co/JjJYD3Kf/Espelho-Redondo.png",
+    pixQrCodeImageUrl: "https://i.ibb.co/zhKnPBX2/qr-Espelho-Redondo.png",
+    pixCopiaECola: "00020126900014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090228Espelho redondo  cha de casa520400005303986540569.905802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62520514EspelhoRedondo50300017br.gov.bcb.brcode01051.0.0630459D9",
   },
   {
     id: "39",
@@ -460,9 +496,9 @@ export const giftList: Gift[] = [
     valorSugerido: "R$ 51,90",
     status: "disponivel",
     imageUrl:
-      "https://i.ibb.co/8gspgkDR/lixeira2.png",
-    pixQrCodeImageUrl: "https://i.ibb.co/zhKnPBX2/qr-Espelho-Redondo.png",
-    pixCopiaECola: "00020126900014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090228Espelho redondo  cha de casa520400005303986540569.905802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62520514EspelhoRedondo50300017br.gov.bcb.brcode01051.0.0630459D9",
+      "https://i.ibb.co/XZPwdqJz/Lixeira-de-A-o.png",
+    pixQrCodeImageUrl: "https://i.ibb.co/Vc2Cdckx/qr-Lixeirade-A-o.png",
+    pixCopiaECola: "00020126890014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090227Lixeira de aco  cha de casa520400005303986540551.905802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62500512LixeiraDeAco50300017br.gov.bcb.brcode01051.0.0630471CF",
   },
 
   // Lavanderia / Limpeza
@@ -474,7 +510,7 @@ export const giftList: Gift[] = [
     valorSugerido: "R$ 41,90",
     status: "disponivel",
     imageUrl:
-      "https://i.ibb.co/spTdTdBw/tirafungo.png",
+      "https://i.ibb.co/k60S3HvH/Kit-Dispenser.png",
     pixQrCodeImageUrl: "https://i.ibb.co/jZQ6KLdj/qr-Kit-Dispenser.png",
     pixCopiaECola: "00020126880014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090226Kit dispenser  cha de casa520400005303986540541.905802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62500512KitDispenser50300017br.gov.bcb.brcode01051.0.06304799F",
   },
@@ -486,7 +522,7 @@ export const giftList: Gift[] = [
     valorSugerido: "R$ 119,00",
     status: "disponivel",
     imageUrl:
-      "https://i.ibb.co/N6VsjG4p/ferro.png",
+      "https://i.ibb.co/2Yj29BJJ/Ferro-de-Passar.png",
     pixQrCodeImageUrl: "https://i.ibb.co/M58x4177/qr-Ferro-De-Passar.png",
     pixCopiaECola: "00020126900014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090228Ferro de passar  cha de casa5204000053039865406119.005802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62510513FerroDePassar50300017br.gov.bcb.brcode01051.0.06304181B",
   },
@@ -498,7 +534,7 @@ export const giftList: Gift[] = [
     valorSugerido: "R$ 69,90",
     status: "disponivel",
     imageUrl:
-      "https://i.ibb.co/SwQm6Yhq/cesto.png",
+      "https://i.ibb.co/ZRDYdGrT/Cesto-de-Roupa.png",
     pixQrCodeImageUrl: "https://i.ibb.co/6cJWV96s/qr-Cesto-De-Roupa.png",
     pixCopiaECola: "00020126890014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090227Cesto de roupa  cha de casa520400005303986540569.905802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62500512CestoDeRoupa50300017br.gov.bcb.brcode01051.0.06304AE96",
   },
@@ -510,7 +546,7 @@ export const giftList: Gift[] = [
     valorSugerido: "R$ 69,90",
     status: "disponivel",
     imageUrl:
-      "https://i.ibb.co/SwQm6Yhq/cesto.png",
+      "https://i.ibb.co/ZRDYdGrT/Cesto-de-Roupa.png",
     pixQrCodeImageUrl: "https://i.ibb.co/C3m4vHCN/qr-Cesto-De-Roupa2.png",
     pixCopiaECola: "00020126890014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090227Cesto de roupa  cha de casa520400005303986540569.905802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62510513CestoDeRoupa250300017br.gov.bcb.brcode01051.0.06304F66F",
   },
@@ -524,7 +560,7 @@ export const giftList: Gift[] = [
     valorSugerido: "R$ 149,14",
     status: "disponivel",
     imageUrl:
-      "https://i.ibb.co/dwCtt3m7/furadeira.png",
+      "https://i.ibb.co/84Y4ZkS9/Parafusadeira-e-Furadeira.png",
     pixQrCodeImageUrl: "https://i.ibb.co/60LR7kTG/qr-Parafusadeirae-Furadeira.png",
     pixCopiaECola: "00020126980014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090236Parafusadeira e furadeira  cha de cs5204000053039865406149.145802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62610523ParafusadeiraeFuradeira50300017br.gov.bcb.brcode01051.0.063049FD8",
   },
@@ -536,7 +572,7 @@ export const giftList: Gift[] = [
     valorSugerido: "R$ 204,00",
     status: "disponivel",
     imageUrl:
-      "https://i.ibb.co/9kHzgWyn/utensiliossilicone.png",
+      "https://i.ibb.co/7dnVtP2r/Utens-lios-Silicone.png",
     pixQrCodeImageUrl: "https://i.ibb.co/1fCHf7NG/qr-Utens-lios-Silicone.png",
     pixCopiaECola: "00020126970014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090235Utensilios de silicone  cha de casa5204000053039865406204.005802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62560518UtensiliosSilicone50300017br.gov.bcb.brcode01051.0.06304344B",
   },
