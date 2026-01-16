@@ -326,7 +326,7 @@ export const giftList: Gift[] = [
     valorSugerido: "R$ 347,00",
     status: "disponivel",
     imageUrl:
-      "https://i.ibb.co/CpSKzVSR/manta.png",
+      "https://i.ibb.co/h1fMtkwV/Design-sem-nome.png",
     pixQrCodeImageUrl: "https://i.ibb.co/0Rg3dmpk/qr-Manta-Capas.png",
     pixCopiaECola: "00020126870014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090225Manta  capas  cha de casa5204000053039865406347.005802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62490511MantaeCapas50300017br.gov.bcb.brcode01051.0.063049598",
   },
@@ -343,7 +343,7 @@ export const giftList: Gift[] = [
     pixCopiaECola: "00020126960014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090234Calendario decorativo  cha de casa520400005303986540529.005802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62580520CalendarioDecorativo50300017br.gov.bcb.brcode01051.0.06304C9DE",
   },
   {
-    id: "28",
+    id: "29",
     nome: "Manta de casal",
     categoria: "quarto",
     descricao: "Para deixar a cama aconchegante e com cara de lar.",
@@ -355,7 +355,7 @@ export const giftList: Gift[] = [
     pixCopiaECola: "00020126890014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090227Manta de casal  cha de casa520400005303986540557.005802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62500512MantaDeCasal50300017br.gov.bcb.brcode01051.0.063044DD4",
   },
   {
-    id: "28",
+    id: "30",
     nome: "Manta de casal",
     categoria: "quarto",
     descricao: "Para deixar a cama aconchegante e com cara de lar.",
@@ -367,7 +367,7 @@ export const giftList: Gift[] = [
     pixCopiaECola: "00020126890014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090227Manta de casal  cha de casa520400005303986540557.005802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62510513MantaDeCasal250300017br.gov.bcb.brcode01051.0.063047922",
   },
   {
-    id: "29",
+    id: "31",
     nome: "Cabides",
     categoria: "quarto",
     descricao: "Para organizar as roupas no guarda-roupa desde o começo.",
@@ -379,7 +379,7 @@ export const giftList: Gift[] = [
     pixCopiaECola: "00020126820014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090220Cabides  cha de casa520400005303986540578.995802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62450507Cabides50300017br.gov.bcb.brcode01051.0.063044C42",
   },
   {
-    id: "30",
+    id: "32",
     nome: "Ventilador Coluna",
     categoria: "quarto",
     descricao: "Para refrescar o quarto e deixar as noites mais confortáveis.",
@@ -391,7 +391,7 @@ export const giftList: Gift[] = [
     pixCopiaECola: "00020126920014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090230Ventilador coluna  cha de casa5204000053039865406339.005802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62540516VentiladorColuna50300017br.gov.bcb.brcode01051.0.06304B011",
   },
   {
-    id: "31",
+    id: "33",
     nome: "Travesseiro",
     categoria: "quarto",
     descricao: "Para mais conforto e uma noite de sono bem gostosa.",
@@ -403,7 +403,7 @@ export const giftList: Gift[] = [
     pixCopiaECola: "00020126860014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090224Travesseiro  cha de casa5204000053039865406149.905802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62490511Travesseiro50300017br.gov.bcb.brcode01051.0.063040B25",
   },
   {
-    id: "32",
+    id: "34",
     nome: "Travesseiro",
     categoria: "quarto",
     descricao: "Um travesseiro extra para visitas ou para revezar no dia a dia.",
@@ -415,7 +415,7 @@ export const giftList: Gift[] = [
     pixCopiaECola: "00020126860014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090224Travesseiro  cha de casa5204000053039865406149.905802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62500512Travesseiro250300017br.gov.bcb.brcode01051.0.063040B49",
   },
   {
-    id: "33",
+    id: "35",
     nome: "Porta Retrato",
     categoria: "quarto",
     descricao: "Para decorar com fotos e guardar memórias especiais.",
@@ -427,7 +427,7 @@ export const giftList: Gift[] = [
     pixCopiaECola: "00020126880014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090226Porta retrato  cha de casa520400005303986540543.905802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62500512PortaRetrato50300017br.gov.bcb.brcode01051.0.063046FB2",
   },
   {
-    id: "34",
+    id: "36",
     nome: "Porta Retrato",
     categoria: "quarto",
     descricao: "Mais um porta-retrato para nossas fotos favoritas.",
@@ -439,7 +439,7 @@ export const giftList: Gift[] = [
     pixCopiaECola: "00020126880014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090226Porta retrato  cha de casa520400005303986540543.905802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62510513PortaRetrato250300017br.gov.bcb.brcode01051.0.063041B02",
   },
   {
-    id: "35",
+    id: "37",
     nome: "Prateleiras Suspensa",
     categoria: "quarto",
     descricao: "Para organizar livros, decoração e otimizar o espaço.",
@@ -453,7 +453,7 @@ export const giftList: Gift[] = [
 
   // Banheiro
   {
-    id: "36",
+    id: "38",
     nome: "Jogo de toalhas",
     categoria: "banheiro",
     descricao: "Toalhas macias para deixar o banheiro completo e aconchegante.",
@@ -465,7 +465,7 @@ export const giftList: Gift[] = [
     pixCopiaECola: "00020126900014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090228Jogo de toalhas  cha de casa5204000053039865406249.905802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62510513JogoDeToalhas50300017br.gov.bcb.brcode01051.0.063044A34",
   },
   {
-    id: "37",
+    id: "39",
     nome: "Kit Banheiro",
     categoria: "banheiro",
     descricao: "Para organizar a bancada do banheiro com praticidade.",
@@ -477,7 +477,7 @@ export const giftList: Gift[] = [
     pixCopiaECola: "00020126870014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090225Kit banheiro  cha de casa5204000053039865406139.905802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62490511KitBanheiro50300017br.gov.bcb.brcode01051.0.06304F4BE",
   },
   {
-    id: "38",
+    id: "40",
     nome: "Espelho Redondo",
     categoria: "banheiro",
     descricao: "Para completar o banheiro e facilitar a rotina.",
@@ -489,7 +489,7 @@ export const giftList: Gift[] = [
     pixCopiaECola: "00020126900014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090228Espelho redondo  cha de casa520400005303986540569.905802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62520514EspelhoRedondo50300017br.gov.bcb.brcode01051.0.0630459D9",
   },
   {
-    id: "39",
+    id: "41",
     nome: "Lixeira de Aço",
     categoria: "banheiro",
     descricao: "Para manter o banheiro organizado com um toque de elegância.",
@@ -503,7 +503,7 @@ export const giftList: Gift[] = [
 
   // Lavanderia / Limpeza
   {
-    id: "40",
+    id: "42",
     nome: "Kit Dispenser",
     categoria: "lavanderia_limpeza",
     descricao: "Para organizar e dosar produtos de limpeza com praticidade.",
@@ -515,7 +515,7 @@ export const giftList: Gift[] = [
     pixCopiaECola: "00020126880014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090226Kit dispenser  cha de casa520400005303986540541.905802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62500512KitDispenser50300017br.gov.bcb.brcode01051.0.06304799F",
   },
   {
-    id: "41",
+    id: "43",
     nome: "Ferro de Passar",
     categoria: "lavanderia_limpeza",
     descricao: "Para deixar as roupas alinhadas e sem amassados.",
@@ -527,7 +527,7 @@ export const giftList: Gift[] = [
     pixCopiaECola: "00020126900014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090228Ferro de passar  cha de casa5204000053039865406119.005802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62510513FerroDePassar50300017br.gov.bcb.brcode01051.0.06304181B",
   },
   {
-    id: "42",
+    id: "44",
     nome: "Cesto de Roupa",
     categoria: "lavanderia_limpeza",
     descricao: "Para juntar as roupas e manter a lavanderia organizada.",
@@ -539,7 +539,7 @@ export const giftList: Gift[] = [
     pixCopiaECola: "00020126890014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090227Cesto de roupa  cha de casa520400005303986540569.905802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62500512CestoDeRoupa50300017br.gov.bcb.brcode01051.0.06304AE96",
   },
   {
-    id: "43",
+    id: "45",
     nome: "Cesto de Roupa",
     categoria: "lavanderia_limpeza",
     descricao: "Cesto extra para separar roupas por cor ou tipo.",
@@ -553,7 +553,7 @@ export const giftList: Gift[] = [
 
   // Ferramentas
   {
-    id: "44",
+    id: "46",
     nome: "Parafusadeira e Furadeira",
     categoria: "ferramentas",
     descricao: "Para montar móveis e fazer pequenos reparos com facilidade.",
@@ -565,7 +565,7 @@ export const giftList: Gift[] = [
     pixCopiaECola: "00020126980014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090236Parafusadeira e furadeira  cha de cs5204000053039865406149.145802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62610523ParafusadeiraeFuradeira50300017br.gov.bcb.brcode01051.0.063049FD8",
   },
   {
-    id: "45",
+    id: "47",
     nome: "Utensílios Silicone",
     categoria: "ferramentas",
     descricao: "Utensílios de silicone para cozinhar sem riscar panelas.",
