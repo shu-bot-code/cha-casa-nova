@@ -86,7 +86,7 @@ const App: React.FC = () => {
         </div>
       </section>
 
-      {/* 2. COTAS (GRANDES SONHOS) - ESTA É A PARTE QUE DEVE APARECER */}
+      {/* 2. COTAS (GRANDES SONHOS) */}
       <QuotaSection onOpenModal={handleOpenQuotaModal} />
 
       {/* 3. LISTA COMUM */}

@@ -57,7 +57,6 @@ export const giftList: Gift[] = [
     descricao: "Para secar a louça com higiene e organização.",
     valorSugerido: "R$ 199,90",
     status: "presenteado",
-    status: "presenteado",
     imageUrl:
       "https://i.ibb.co/0RDx7W87/Escorredor-de-Lou-a.png",
     pixQrCodeImageUrl: "https://i.ibb.co/k2Gz8KQx/qr-Escorredorde-Lou-a.png",
@@ -190,7 +189,6 @@ export const giftList: Gift[] = [
     descricao: "Pote hermético para armazenar alimentos e manter a cozinha organizada.",
     valorSugerido: "R$ 45,90",
     status: "presenteado",
-    status: "presenteado",
     imageUrl:
       "https://i.ibb.co/JjzGVRv8/Pote-Herm-tico.png",
     pixQrCodeImageUrl: "https://i.ibb.co/8LTSjTWg/qr-Pote-Herm-tico.png",
@@ -216,7 +214,7 @@ export const giftList: Gift[] = [
     categoria: "cozinha",
     descricao: "Para fritar com menos óleo e agilizar as refeições do dia a dia.",
     valorSugerido: "R$ 450,00",
-    status: "disponivel",
+    status: "presenteado",
     imageUrl:
       "https://i.ibb.co/DHDzsNr9/Airfryer.png",
     pixQrCodeImageUrl: "https://i.ibb.co/G4b1y3dg/qr-Airfryer.png",
@@ -241,7 +239,6 @@ export const giftList: Gift[] = [
     descricao: "Para aquecer água e preparar chás e cafés no capricho.",
     valorSugerido: "R$ 159,00",
     status: "presenteado",
-    status: "presenteado",
     imageUrl:
       "https://i.ibb.co/YsLLThR/Chaleira-Bule.png",
     pixQrCodeImageUrl: "https://i.ibb.co/XxG8wGxL/qr-Chaleira-Bule.png",
@@ -265,7 +262,6 @@ export const giftList: Gift[] = [
     categoria: "mesa_preparo",
     descricao: "Para fazer lanches rápidos e tostados a qualquer hora.",
     valorSugerido: "R$ 159,90",
-    status: "presenteado",
     status: "presenteado",
     imageUrl:
       "https://i.ibb.co/9HdvpZjR/Sanduicheira.png",
@@ -340,7 +336,6 @@ export const giftList: Gift[] = [
     categoria: "quarto",
     descricao: "Para organizar a rotina e decorar o cantinho.",
     valorSugerido: "R$ 29,00",
-    status: "presenteado",
     status: "presenteado",
     imageUrl:
       "https://i.ibb.co/4RKM5bnz/calendario.png",
@@ -537,7 +532,6 @@ export const giftList: Gift[] = [
     categoria: "lavanderia_limpeza",
     descricao: "Para juntar as roupas e manter a lavanderia organizada.",
     valorSugerido: "R$ 69,90",
-    status: "presenteado",
     status: "presenteado",
     imageUrl:
       "https://i.ibb.co/ZRDYdGrT/Cesto-de-Roupa.png",
