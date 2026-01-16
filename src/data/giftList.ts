@@ -262,7 +262,7 @@ export const giftList: Gift[] = [
     categoria: "mesa_preparo",
     descricao: "Para fazer lanches rápidos e tostados a qualquer hora.",
     valorSugerido: "R$ 159,90",
-    status: "disponivel",
+    status: "presenteado",
     imageUrl:
       "https://i.ibb.co/9HdvpZjR/Sanduicheira.png",
     pixQrCodeImageUrl: "https://i.ibb.co/sJbV5ky3/qr-Sanduicheira.png",
@@ -577,4 +577,5 @@ export const giftList: Gift[] = [
     pixCopiaECola: "00020126970014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090235Utensilios de silicone  cha de casa5204000053039865406204.005802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62560518UtensiliosSilicone50300017br.gov.bcb.brcode01051.0.06304344B",
   },
 ];
+
 
