@@ -214,7 +214,7 @@ export const giftList: Gift[] = [
     categoria: "mesa_preparo",
     descricao: "Para abrir bebidas com facilidade e brindar com os amigos.",
     valorSugerido: "R$ 85,90",
-    status: "disponivel",
+    status: "presenteado",
     imageUrl:
       "https://i.ibb.co/S7WTRd7z/Kit-Abridor-De-Garrafa.png",
     pixQrCodeImageUrl: "https://i.ibb.co/XxY9VZxm/qr-Kit-Abridor-De-Garrafa.png",
@@ -238,7 +238,7 @@ export const giftList: Gift[] = [
     categoria: "mesa_preparo",
     descricao: "Para aquecer água e preparar chás e cafés no capricho.",
     valorSugerido: "R$ 159,00",
-    status: "disponivel",
+    status: "presenteado",
     imageUrl:
       "https://i.ibb.co/YsLLThR/Chaleira-Bule.png",
     pixQrCodeImageUrl: "https://i.ibb.co/XxG8wGxL/qr-Chaleira-Bule.png",
