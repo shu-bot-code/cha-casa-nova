@@ -56,7 +56,7 @@ export const giftList: Gift[] = [
     categoria: "cozinha",
     descricao: "Para secar a louça com higiene e organização.",
     valorSugerido: "R$ 199,90",
-    status: "disponivel",
+    status: "presenteado",
     imageUrl:
       "https://i.ibb.co/0RDx7W87/Escorredor-de-Lou-a.png",
     pixQrCodeImageUrl: "https://i.ibb.co/k2Gz8KQx/qr-Escorredorde-Lou-a.png",
@@ -188,7 +188,7 @@ export const giftList: Gift[] = [
     categoria: "cozinha",
     descricao: "Pote hermético para armazenar alimentos e manter a cozinha organizada.",
     valorSugerido: "R$ 45,90",
-    status: "disponivel",
+    status: "presenteado",
     imageUrl:
       "https://i.ibb.co/JjzGVRv8/Pote-Herm-tico.png",
     pixQrCodeImageUrl: "https://i.ibb.co/8LTSjTWg/qr-Pote-Herm-tico.png",
@@ -577,5 +577,6 @@ export const giftList: Gift[] = [
     pixCopiaECola: "00020126970014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090235Utensilios de silicone  cha de casa5204000053039865406204.005802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62560518UtensiliosSilicone50300017br.gov.bcb.brcode01051.0.06304344B",
   },
 ];
+
 
 
