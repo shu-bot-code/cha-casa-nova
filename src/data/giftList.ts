@@ -274,7 +274,7 @@ export const giftList: Gift[] = [
     categoria: "mesa_preparo",
     descricao: "Para vitaminas, molhos e receitas do dia a dia.",
     valorSugerido: "R$ 174,90",
-    status: "disponivel",
+    status: "presenteado",
     imageUrl:
       "https://i.ibb.co/3mzgX4P3/Liquidificador.png",
     pixQrCodeImageUrl: "https://i.ibb.co/99vWcMwG/qr-Liquidificador.png",
