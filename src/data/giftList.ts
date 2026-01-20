@@ -482,7 +482,7 @@ export const giftList: Gift[] = [
     categoria: "banheiro",
     descricao: "Para completar o banheiro e facilitar a rotina.",
     valorSugerido: "R$ 69,90",
-    status: "disponivel",
+    status: "presenteado",
     imageUrl:
       "https://i.ibb.co/JjJYD3Kf/Espelho-Redondo.png",
     pixQrCodeImageUrl: "https://i.ibb.co/zhKnPBX2/qr-Espelho-Redondo.png",
