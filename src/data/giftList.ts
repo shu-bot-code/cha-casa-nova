@@ -80,7 +80,7 @@ export const giftList: Gift[] = [
     categoria: "cozinha",
     descricao: "Para manter água fresca e em circulação para os pets.",
     valorSugerido: "R$ 140,80",
-    status: "disponivel",
+    status: "presenteado",
     imageUrl:
       "https://i.ibb.co/M5pfsmrZ/Fonte-para-Pets.png",
     pixQrCodeImageUrl: "https://i.ibb.co/HD4RwCcL/qr-Fonte-Para-Pets.png",
@@ -444,7 +444,7 @@ export const giftList: Gift[] = [
     categoria: "quarto",
     descricao: "Para organizar livros, decoração e otimizar o espaço.",
     valorSugerido: "R$ 21,99",
-    status: "disponivel",
+    status: "presenteado",
     imageUrl:
       "https://i.ibb.co/7xfQPcv2/Prateleiras-Suspensa.png",
     pixQrCodeImageUrl: "https://i.ibb.co/N6M9S464/qr-Prateleiras-Suspensa.png",
