@@ -396,7 +396,7 @@ export const giftList: Gift[] = [
     categoria: "quarto",
     descricao: "Para mais conforto e uma noite de sono bem gostosa.",
     valorSugerido: "R$ 149,90",
-    status: "disponivel",
+    status: "presenteado",
     imageUrl:
       "https://i.ibb.co/ynnBYgTB/Travesseiro.png",
     pixQrCodeImageUrl: "https://i.ibb.co/FqNY9Sq8/qr-Travesseiro.png",
