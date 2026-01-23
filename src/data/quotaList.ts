@@ -1,4 +1,3 @@
-// Usamos 'import type' para evitar erros de compilação no Fedora
 import type { QuotaItem } from "../types/quota";
 
 export const quotaList: QuotaItem[] = [
@@ -9,6 +8,7 @@ export const quotaList: QuotaItem[] = [
     valorCota: 100,
     totalCotas: 35,
     cotasRecebidas: 11,
+    status: "disponivel",
     imageUrl: "https://i.ibb.co/RpLTd65C/geladeira.png",
     pixQrCodeImageUrl: "https://i.ibb.co/2YcVrmM2/qrcotageladeira.png", 
     pixCopiaECola: "00020126820014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090220Valor total de cotas5204000053039865802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62520514CotasGeladeira50300017br.gov.bcb.brcode01051.0.06304B7CB" 
@@ -20,6 +20,7 @@ export const quotaList: QuotaItem[] = [
     valorCota: 100,
     totalCotas: 43,
     cotasRecebidas: 43,
+    status: "presenteado",
     imageUrl: "https://i.ibb.co/nsT1j7rj/maquinadelavar.png",
     pixQrCodeImageUrl: "https://i.ibb.co/SDrtXyhf/qrcotamaquinadelavar.png",
     pixCopiaECola: "00020126820014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090220Valor total de cotas5204000053039865802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62570519CotasMaquinaDeLavar50300017br.gov.bcb.brcode01051.0.06304CE47"
@@ -31,6 +32,7 @@ export const quotaList: QuotaItem[] = [
     valorCota: 41,
     totalCotas: 75,
     cotasRecebidas: 0,
+    status: "disponivel",
     imageUrl: "https://i.ibb.co/dw7640yx/tv.png",
     pixQrCodeImageUrl: "https://i.ibb.co/2YcVrmM2/qrcotageladeira.png", 
     pixCopiaECola: "00020126820014br.gov.bcb.pix01369dd78aeb-2c71-414b-8a75-1efcf12d01090220Valor total de cotas5204000053039865802BR5925WALLYSON SCHUMACHER AQUIN6008BRASILIA62520514CotasGeladeira50300017br.gov.bcb.brcode01051.0.06304B7CB"
