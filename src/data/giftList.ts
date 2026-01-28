@@ -408,7 +408,7 @@ export const giftList: Gift[] = [
     categoria: "quarto",
     descricao: "Um travesseiro extra para visitas ou para revezar no dia a dia.",
     valorSugerido: "R$ 149,90",
-    status: "disponivel",
+    status: "presenteado",
     imageUrl:
       "https://i.ibb.co/ynnBYgTB/Travesseiro.png",
     pixQrCodeImageUrl: "https://i.ibb.co/PspLj1Kj/qr-Travesseiro2.png",
@@ -558,7 +558,7 @@ export const giftList: Gift[] = [
     categoria: "ferramentas",
     descricao: "Para montar móveis e fazer pequenos reparos com facilidade.",
     valorSugerido: "R$ 149,14",
-    status: "disponivel",
+    status: "presenteado",
     imageUrl:
       "https://i.ibb.co/84Y4ZkS9/Parafusadeira-e-Furadeira.png",
     pixQrCodeImageUrl: "https://i.ibb.co/60LR7kTG/qr-Parafusadeirae-Furadeira.png",
