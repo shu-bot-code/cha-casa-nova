@@ -116,7 +116,7 @@ export const giftList: Gift[] = [
     categoria: "cozinha",
     descricao: "Um ralador prático para o preparo do dia a dia.",
     valorSugerido: "R$ 101,50",
-    status: "disponivel",
+    status: "presenteado",
     imageUrl:
       "https://i.ibb.co/pvTXQStF/Ralador.png",
     pixQrCodeImageUrl: "https://i.ibb.co/DHMzc2Rj/qr-Ralador.png",
