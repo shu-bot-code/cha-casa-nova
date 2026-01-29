@@ -152,7 +152,7 @@ export const giftList: Gift[] = [
     categoria: "cozinha",
     descricao: "Panos extras para ajudar na limpeza e secagem da cozinha.",
     valorSugerido: "R$ 45,00",
-    status: "disponivel",
+    status: "presenteado",
     imageUrl:
       "https://i.ibb.co/tMTb7rGP/Kit-com-3-Panos.png",
     pixQrCodeImageUrl: "https://i.ibb.co/WpDh3BJx/qr-Kit-Com3-Panos.png",
@@ -200,7 +200,7 @@ export const giftList: Gift[] = [
     categoria: "cozinha",
     descricao: "Pote hermético para armazenar alimentos e manter a cozinha organizada.",
     valorSugerido: "R$ 69,90",
-    status: "disponivel",
+    status: "presenteado",
     imageUrl:
       "https://i.ibb.co/JjzGVRv8/Pote-Herm-tico.png",
     pixQrCodeImageUrl: "https://i.ibb.co/pjmdygyL/qr-Pote-Herm-tico2.png",
@@ -226,7 +226,7 @@ export const giftList: Gift[] = [
     categoria: "mesa_preparo",
     descricao: "Para servir água e sucos com elegância na mesa.",
     valorSugerido: "R$ 65,90",
-    status: "disponivel",
+    status: "presenteado",
     imageUrl:
       "https://i.ibb.co/GvyR9Q4K/Jarra-De-Vidro.png",
     pixQrCodeImageUrl: "https://i.ibb.co/fz1ytd48/qr-Jarra-De-Vidro.png",
@@ -348,7 +348,7 @@ export const giftList: Gift[] = [
     categoria: "quarto",
     descricao: "Para deixar a cama aconchegante e com cara de lar.",
     valorSugerido: "R$ 57,00",
-    status: "disponivel",
+    status: "presenteado",
     imageUrl:
       "https://i.ibb.co/27RP0wHh/Manta-Casal.png",
     pixQrCodeImageUrl: "https://i.ibb.co/tr8rsjZ/qr-Manta-Casal.png",
@@ -420,7 +420,7 @@ export const giftList: Gift[] = [
     categoria: "quarto",
     descricao: "Para decorar com fotos e guardar memórias especiais.",
     valorSugerido: "R$ 43,90",
-    status: "disponivel",
+    status: "presenteado",
     imageUrl:
       "https://i.ibb.co/W4dKwz5G/Porta-Retrato.png",
     pixQrCodeImageUrl: "https://i.ibb.co/qYdFyfWc/qr-Porta-Retrato.png",
