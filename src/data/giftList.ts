@@ -176,7 +176,7 @@ export const giftList: Gift[] = [
     categoria: "cozinha",
     descricao: "Tapete absorvente para apoiar louças e manter a bancada seca.",
     valorSugerido: "R$ 29,00",
-    status: "disponivel",
+    status: "presenteado",
     imageUrl:
       "https://i.ibb.co/DPvMLZWQ/Tapete-escorredor.png",
     pixQrCodeImageUrl: "https://i.ibb.co/HTzSR9Rj/qr-Tapete-Escorredor.png",
