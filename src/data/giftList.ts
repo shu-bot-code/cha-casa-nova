@@ -164,7 +164,7 @@ export const giftList: Gift[] = [
     categoria: "cozinha",
     descricao: "Para cortes precisos e preparo seguro dos alimentos.",
     valorSugerido: "R$ 364,00",
-    status: "disponivel",
+    status: "presenteado",
     imageUrl:
       "https://i.ibb.co/mVMHXP7c/Jogo-de-Facas.png",
     pixQrCodeImageUrl: "https://i.ibb.co/SDRjt63c/qr-Jogo-De-Facas.png",
@@ -298,7 +298,7 @@ export const giftList: Gift[] = [
     categoria: "mesa_preparo",
     descricao: "Para manter as facas alinhadas e afiadas no uso diário.",
     valorSugerido: "R$ 57,90",
-    status: "disponivel",
+    status: "presenteado",
     imageUrl:
       "https://i.ibb.co/MyrL44vT/Chaira-Estriada.png",
     pixQrCodeImageUrl: "https://i.ibb.co/8LyK8B3g/qr-Chaira-Estriada.png",
