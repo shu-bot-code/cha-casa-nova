@@ -68,7 +68,7 @@ export const giftList: Gift[] = [
     categoria: "cozinha",
     descricao: "Um saleiro prático para temperar e deixar a mesa completa.",
     valorSugerido: "R$ 45,90",
-    status: "disponivel",
+    status: "presenteado",
     imageUrl:
       "https://i.ibb.co/Wv5VMPFt/Saleiro.png",
     pixQrCodeImageUrl: "https://i.ibb.co/sdwyN2MQ/qr-Saleiro.png",
