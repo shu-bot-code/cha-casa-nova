@@ -140,7 +140,7 @@ export const giftList: Gift[] = [
     categoria: "cozinha",
     descricao: "Para deixar esponja, detergente e panos sempre no lugar.",
     valorSugerido: "R$ 78,89",
-    status: "disponivel",
+    status: "presenteado",
     imageUrl:
       "https://i.ibb.co/BDvTZf6/Organizador-de-Pia.png",
     pixQrCodeImageUrl: "https://i.ibb.co/Wp66MpCN/qr-Organizador-De-Pia.png",
