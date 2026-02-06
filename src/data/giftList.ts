@@ -458,7 +458,7 @@ export const giftList: Gift[] = [
     categoria: "banheiro",
     descricao: "Toalhas macias para deixar o banheiro completo e aconchegante.",
     valorSugerido: "R$ 249,90",
-    status: "disponivel",
+    status: "presenteado",
     imageUrl:
       "https://i.ibb.co/DfYx4rNP/Jogo-de-toalhas.png",
     pixQrCodeImageUrl: "https://i.ibb.co/wbz24dP/qr-Jogo-De-Toalhas.png",
