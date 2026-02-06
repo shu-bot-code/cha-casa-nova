@@ -7,7 +7,7 @@ export const quotaList: QuotaItem[] = [
     descricao: "O coração da cozinha! Ajude-nos a manter nossas comidinhas sempre frescas.",
     valorCota: 100,
     totalCotas: 35,
-    cotasRecebidas: 16,
+    cotasRecebidas: 18,
     status: "disponivel",
     imageUrl: "https://i.ibb.co/RpLTd65C/geladeira.png",
     pixQrCodeImageUrl: "https://i.ibb.co/2YcVrmM2/qrcotageladeira.png", 
