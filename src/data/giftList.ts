@@ -32,7 +32,7 @@ export const giftList: Gift[] = [
     categoria: "cozinha",
     descricao: "Para picar, fatiar e triturar com praticidade.",
     valorSugerido: "R$ 349,90",
-    status: "disponivel",
+    status: "presenteado",
     imageUrl:
       "https://i.ibb.co/gFw7dx06/Multiprocessador.png",
     pixQrCodeImageUrl: "https://i.ibb.co/xKfymG3q/qr-Multiprocessador.png",
